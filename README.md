@@ -155,6 +155,15 @@ It requires the user to write SQLAlchemy mappings.</td>
 <a href="https://hub.docker.com/_/influxdb">Official Docker image</a>.</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/holdmyopenclaw/masabon">MsABON</a></td>
+    <td>MS SQL</td>
+    <td>REST</td>
+    <td>JavaScript (Node.js)</td>
+    <td>CC0-1.0</td>
+    <td>2&nbsp;★; 1&nbsp;commit</td>
+    <td>Automatically discovers MS SQL tables, views, stored procedures, and scalar-valued functions to expose REST endpoints with OpenAPI (Swagger) documentation.</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/neo4j-graphql/neo4j-graphql">neo4j-graphql</a></td>
     <td>Neo4j</td>
     <td>GraphQL</td>
